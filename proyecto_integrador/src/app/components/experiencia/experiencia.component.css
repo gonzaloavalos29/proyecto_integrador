@@ -1,0 +1,14 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: #191c32;
+    color: white;
+}
+h1, h3{
+    display: inline;
+    
+}
+.principal{
+    color: aqua;
+}

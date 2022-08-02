@@ -1,0 +1,40 @@
+.row{
+    padding: 20px;
+
+}
+div{
+    background-color: #191c32;
+    text-align: center;
+    color: white;
+}
+/* #fotodeperfil{
+    height: 200px;
+    width: 200px;
+    left: 42.5%;
+    padding: 20px;
+} */
+#fotodeperfil{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 100%;
+    box-shadow: white 2px 2px 2px;
+}
+#titulo{
+    color: aqua;
+    text-align: center;
+}
+
+/*etiqueta nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 10%;
+    text-align: center;
+    letter-spacing: 5px;
+    color: aqua;
+    right: 15%;
+}
+.principal{
+    color: aqua;
+    line-height: 300%;
+}
